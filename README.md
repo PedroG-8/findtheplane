@@ -1,2 +1,2 @@
-# findtheplane
+# FindThePlane
 Website for Software Engineering
